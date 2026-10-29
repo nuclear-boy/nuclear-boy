@@ -1,3 +1,14 @@
+
+<h2 align="center"><i>"Learning Today, Building Tomorrow."</i></h2>
+<p align="center">
+  <i>Curiosity fuels discovery. Knowledge builds the future.</i>
+</p>
+
+---
+
+<h1 align="center">Hi 👋, I'm Fiqkri Putra Riswanda</h1>
+<h3 align="center">Physics Student | Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+
 # Hi 👋, I'm Fiqkri Putra Riswanda
 
 ### Physics Student | Aspiring Data Scientist | Machine Learning Enthusiast
