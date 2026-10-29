@@ -9,10 +9,6 @@
 <h1 align="center">Hi 👋, I'm Fiqkri Putra Riswanda</h1>
 <h3 align="center">Physics Student | Aspiring Data Scientist | Machine Learning Enthusiast</h3>
 
-# Hi 👋, I'm Fiqkri Putra Riswanda
-
-### Physics Student | Aspiring Data Scientist | Machine Learning Enthusiast
-
 I'm a Physics student at **Universitas Tanjungpura, Indonesia**, interested in the intersection of physics, mathematics, data science, and computational intelligence.
 
 My goal is to build strong foundations in statistics, scientific computing, and machine learning to solve real-world problems through data-driven approaches.
